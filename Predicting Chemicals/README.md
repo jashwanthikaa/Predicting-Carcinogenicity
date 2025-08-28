@@ -25,14 +25,23 @@ Project Structure
 The project is organised into the following main directories:
 
 **Code/** -> All R scripts for preprocessing, fingerprint generation, model building, validation, and plotting.
+
 **Data/** -> Raw, intermediate, and processed datasets (CompTox assay, MassBank, CAS-matched sets).
+
 **Results/** -> Model outputs, trained models, confusion matrices, and prediction files.
+
 **Figs/** -> Visual outputs (ROC curves, SHAP plots, feature importance, threshold optimisation).
+
 **Real Sample/** -> Validation on limonene SOA chamber data (spectra, SIRIUS predictions, plots).
+
 **validation compound/** -> Compound-level external validation folders, one per compound.
+
 **Docs/** -> Supporting documentation and dissertation text.
+
 **Predicting-Chemicals.Rproj** -> RStudio project file for reproducibility.
+
 **FinalReport.docx** -> Dissertation document draft.
+
 **README.txt** -> This file.
 
 --------------------------------------------------
