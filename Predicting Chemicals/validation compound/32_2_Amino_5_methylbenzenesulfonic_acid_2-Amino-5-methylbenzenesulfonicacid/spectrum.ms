@@ -1,0 +1,45 @@
+>compound 2-Amino-5-methylbenzenesulfonic acid
+>parentmass 188.0376
+>ionization [M + H]+
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/2_Amino_5_methylbenzenesulfonic_acid.ms
+>quality UNKNOWN
+
+>ms1merged
+187.03031 100.0
+188.02735 0.4
+188.0297 0.8
+188.03367 7.6
+188.03453 0.1
+188.03659 0.1
+189.02611 4.5
+189.03456 0.6
+189.03702 0.2
+190.02946 0.3
+
+>ms1peaks
+187.03031 100.0
+188.02735 0.4
+188.0297 0.8
+188.03367 7.6
+188.03453 0.1
+188.03659 0.1
+189.02611 4.5
+189.03456 0.6
+189.03702 0.2
+190.02946 0.3
+
+>collision 30 eV (corrected 30 eV)
+65.0385 13814.2
+80.0495 3839.6
+92.0495 1022853.2
+108.0444 317430.6
+110.0601 18014.5
+
+>collision 90 eV (corrected 90 eV)
+65.0386 451341.1
+80.0495 116428.8
+92.0495 289377.7
+108.0444 25692.8
+110.0601 15516.2
+

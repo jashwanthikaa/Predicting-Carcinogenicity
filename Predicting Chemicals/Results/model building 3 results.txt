@@ -1,0 +1,160 @@
+model building 3
+
+Best Hyperparameters:
+> print(best_params)
+    nrounds max_depth  eta gamma colsample_bytree min_child_weight subsample
+136     300         9 0.01     5              0.6                1       0.6
+> 
+> # ----------------------------
+> # Make predictions on test set
+> # ----------------------------
+> xgb_pred_prob <- predict(xgb_model, newdata = X_test_matrix, type = "prob")[, "Active"]
+> 
+> # Find optimal threshold from ROC
+> roc_obj <- roc(y_test, xgb_pred_prob)
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+> best_coords <- coords(roc_obj, "best", ret = c("threshold", "specificity", "sensitivity"))
+> optimal_threshold <- as.numeric(best_coords["threshold"])
+> cat("\n Optimal threshold based on ROC:", optimal_threshold, "\n")
+
+ Optimal threshold based on ROC: 0.3263245 
+> 
+> # Final binary predictions using optimized threshold
+> xgb_pred <- ifelse(xgb_pred_prob > optimal_threshold, 1, 0)
+> 
+> # ----------------------------
+> # Confusion Matrix
+> # ----------------------------
+> y_test_factor <- factor(y_test, levels = c(0, 1))
+> xgb_pred_factor <- factor(xgb_pred, levels = c(0, 1))
+> 
+> xgb_cm <- confusionMatrix(xgb_pred_factor, y_test_factor, positive = "1")
+> 
+> cat("\n Confusion Matrix:\n")
+
+ Confusion Matrix:
+> print(xgb_cm)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 75  4
+         1 44 20
+                                          
+               Accuracy : 0.6643          
+                 95% CI : (0.5806, 0.7411)
+    No Information Rate : 0.8322          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2784          
+                                          
+ Mcnemar's Test P-Value : 1.811e-08       
+                                          
+            Sensitivity : 0.8333          
+            Specificity : 0.6303          
+         Pos Pred Value : 0.3125          
+         Neg Pred Value : 0.9494          
+             Prevalence : 0.1678          
+         Detection Rate : 0.1399          
+   Detection Prevalence : 0.4476          
+      Balanced Accuracy : 0.7318          
+                                          
+       'Positive' Class : 1               
+                                          
+> 
+> # ----------------------------
+> # Class distribution breakdown
+> # ----------------------------
+> cm_table <- xgb_cm$table
+> 
+> actual_active <- sum(y_test == 1)
+> actual_inactive <- sum(y_test == 0)
+> predicted_active <- sum(xgb_pred == 1)
+> predicted_inactive <- sum(xgb_pred == 0)
+> 
+> cat("\n Confusion Matrix Counts (Test Set):\n")
+
+ Confusion Matrix Counts (Test Set):
+> print(cm_table)
+          Reference
+Prediction  0  1
+         0 75  4
+         1 44 20
+> 
+> cat("\n Class Distribution:\n")
+
+ Class Distribution:
+> cat("  Actual Active     :", actual_active, "\n")
+  Actual Active     : 24 
+> cat("  Actual Inactive   :", actual_inactive, "\n")
+  Actual Inactive   : 119 
+> cat("  Predicted Active  :", predicted_active, "\n")
+  Predicted Active  : 64 
+> cat("  Predicted Inactive:", predicted_inactive, "\n")
+  Predicted Inactive: 79 
+> 
+> # ----------------------------
+
+
+Best Hyperparameters:
+> print(best_params)
+    nrounds max_depth  eta gamma colsample_bytree min_child_weight subsample
+136     300         9 0.01     5              0.6                1       0.6
+> 
+> # ----------------------------
+> # Make predictions on test set
+> # ----------------------------
+> xgb_pred_prob <- predict(xgb_model, newdata = X_test_matrix, type = "prob")[, "Active"]
+> 
+> # Find optimal threshold from ROC
+> roc_obj <- roc(y_test, xgb_pred_prob)
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+> best_coords <- coords(roc_obj, "best", ret = c("threshold", "specificity", "sensitivity"))
+> optimal_threshold <- as.numeric(best_coords["threshold"])
+> cat("\n Optimal threshold based on ROC:", optimal_threshold, "\n")
+
+ Optimal threshold based on ROC: 0.3263245 
+> 
+> # Final binary predictions using optimized threshold
+> xgb_pred <- ifelse(xgb_pred_prob > optimal_threshold, 1, 0)
+> 
+> # ----------------------------
+> # Confusion Matrix
+> # ----------------------------
+> y_test_factor <- factor(y_test, levels = c(0, 1))
+> xgb_pred_factor <- factor(xgb_pred, levels = c(0, 1))
+> 
+> xgb_cm <- confusionMatrix(xgb_pred_factor, y_test_factor, positive = "1")
+> 
+> cat("\n Confusion Matrix:\n")
+
+ Confusion Matrix:
+> print(xgb_cm)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 75  4
+         1 44 20
+                                          
+               Accuracy : 0.6643          
+                 95% CI : (0.5806, 0.7411)
+    No Information Rate : 0.8322          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.2784          
+                                          
+ Mcnemar's Test P-Value : 1.811e-08       
+                                          
+            Sensitivity : 0.8333          
+            Specificity : 0.6303          
+         Pos Pred Value : 0.3125          
+         Neg Pred Value : 0.9494          
+             Prevalence : 0.1678          
+         Detection Rate : 0.1399          
+   Detection Prevalence : 0.4476          
+      Balanced Accuracy : 0.7318          
+                                          
+       'Positive' Class : 1     

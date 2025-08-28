@@ -1,0 +1,319 @@
+Pirimicarb: MSBNK-LCSB-LU004406 | Formula: C11H18N4O2
+Terbutryn: MSBNK-LCSB-LU004706 | Formula: C10H19N5S
+Trinexapac-ethyl: MSBNK-LCSB-LU005356 | Formula: C13H16O5
+Cybutryne: MSBNK-LCSB-LU005506 | Formula: C11H19N5S
+Napropamide: MSBNK-LCSB-LU006606 | Formula: C17H21NO2
+4-Methoxyaniline: MSBNK-LCSB-LU020106 | Formula: C7H9NO
+1-Dodecyl-2-pyrrolidinone: MSBNK-LCSB-LU015306 | Formula: C16H31NO
+3-Thiatetradecanoic acid: MSBNK-LCSB-LU015455 | Formula: C13H26O2S
+Anastrozole: MSBNK-LCSB-LU016606 | Formula: C17H19N5
+Vincamine: MSBNK-LCSB-LU016806 | Formula: C21H26N2O3
+4,4'-Sulfonylbis[2-(prop-2-en-1-yl)phenol]: MSBNK-LCSB-LU017256 | Formula: C18H18O4S
+Phenolphthalein: MSBNK-LCSB-LU017356 | Formula: C20H14O4
+Indinavir: MSBNK-LCSB-LU017856 | Formula: C36H47N5O4
+4-Phenoxyphenol: MSBNK-LCSB-LU018056 | Formula: C12H10O2
+Indole-3-acetic acid: MSBNK-LCSB-LU019056 | Formula: C10H9NO2
+Xanthone: MSBNK-LCSB-LU019806 | Formula: C13H8O2
+N-Benzyladenine: MSBNK-LCSB-LU020255 | Formula: C12H11N5
+4-Methylumbelliferone: MSBNK-LCSB-LU096706 | Formula: C10H8O3
+Probenecid: MSBNK-LCSB-LU020856 | Formula: C13H19NO4S
+Zearalenone: MSBNK-LCSB-LU021156 | Formula: C18H22O5
+(9Z,12R)-12-Hydroxyoctadec-9-enoic acid: MSBNK-LCSB-LU021956 | Formula: C18H34O3
+2-Methyl-4,6-dinitrophenol: MSBNK-LCSB-LU023056 | Formula: C7H6N2O5
+Ametryn: MSBNK-LCSB-LU023106 | Formula: C9H17N5S
+Pyriproxyfen: MSBNK-LCSB-LU023506 | Formula: C20H19NO3
+5HPP-33: MSBNK-LCSB-LU024256 | Formula: C20H21NO3
+5,5-Dimethylbarbituric acid: MSBNK-LCSB-LU024956 | Formula: C6H8N2O3
+Niacinamide: MSBNK-LCSB-LU025106 | Formula: C6H6N2O
+Danazol: MSBNK-LCSB-LU025306 | Formula: C22H27NO2
+Fenpyroximate (Z,E): MSBNK-LCSB-LU025406 | Formula: C24H27N3O4
+Pymetrozine: MSBNK-LCSB-LU025706 | Formula: C10H11N5O
+Tolazamide: MSBNK-LCSB-LU027256 | Formula: C14H21N3O3S
+Tolcapone: MSBNK-LCSB-LU027356 | Formula: C14H11NO5
+Imazethapyr: MSBNK-LCSB-LU027456 | Formula: C15H19N3O3
+Dodecanedioic acid: MSBNK-LCSB-LU027556 | Formula: C12H22O4
+Butralin: MSBNK-LCSB-LU027706 | Formula: C14H21N3O4
+Methoxyfenozide: MSBNK-LCSB-LU027856 | Formula: C22H28N2O3
+C.I. Solvent Yellow 14: MSBNK-LCSB-LU029706 | Formula: C16H12N2O
+Quercetin: MSBNK-LCSB-LU029856 | Formula: C15H10O7
+Diphenylamine: MSBNK-LCSB-LU030006 | Formula: C12H11N
+Formononetin: MSBNK-LCSB-LU030156 | Formula: C16H12O4
+2-[4-(Diethylamino)-2-hydroxybenzoyl]benzoic acid: MSBNK-LCSB-LU030356 | Formula: C18H19NO4
+4,4'-Methylenebis(2-methylaniline): MSBNK-LCSB-LU032206 | Formula: C15H18N2
+Propyl gallate: MSBNK-LCSB-LU032356 | Formula: C10H12O5
+6-Propyl-2-thiouracil: MSBNK-LCSB-LU032456 | Formula: C7H10N2OS
+Mefenamic acid: MSBNK-LCSB-LU032756 | Formula: C15H15NO2
+Colchicine: MSBNK-LCSB-LU032806 | Formula: C22H25NO6
+1,2-Benzisothiazolin-3-one: MSBNK-LCSB-LU033006 | Formula: C7H5NOS
+Oleyl sarcosine: MSBNK-LCSB-LU033606 | Formula: C21H39NO3
+Phenazone: MSBNK-LCSB-LU034706 | Formula: C11H12N2O
+4-[3-(4-Acetyl-3-hydroxy-2-propylphenoxy)propoxy]phenoxy-acetic acid: MSBNK-LCSB-LU035356 | Formula: C22H26O7
+Propoxur: MSBNK-LCSB-LU036506 | Formula: C11H15NO3
+Acetazolamide: MSBNK-LCSB-LU036656 | Formula: C4H6N4O3S2
+Endothal: MSBNK-LCSB-LU036856 | Formula: C8H10O5
+6-Hydroxy-2-naphthyl disulfide: MSBNK-LCSB-LU037056 | Formula: C20H14O2S2
+Triethylene glycol dibenzoate: MSBNK-LCSB-LU037103 | Formula: C20H22O6
+Warfarin: MSBNK-LCSB-LU037756 | Formula: C19H16O4
+N-(4-Methoxyphenyl)-3-oxobutanamide: MSBNK-LCSB-LU038856 | Formula: C11H13NO3
+4-Nitroanthranilic acid: MSBNK-LCSB-LU039456 | Formula: C7H6N2O4
+Topiramate: MSBNK-LCSB-LU039556 | Formula: C12H21NO8S
+4-Androstene-3,17-dione: MSBNK-LCSB-LU039605 | Formula: C19H26O2
+Di(2-methoxyethyl) phthalate: MSBNK-LCSB-LU039703 | Formula: C14H18O6
+12-Hydroxyoctadecanoic acid: MSBNK-LCSB-LU039856 | Formula: C18H36O3
+4-Nitro-N-phenylaniline: MSBNK-LCSB-LU039956 | Formula: C12H10N2O2
+Buprofezin: MSBNK-LCSB-LU040206 | Formula: C16H23N3OS
+2,4,6-Tris(allyloxy)-1,3,5-triazine: MSBNK-LCSB-LU040706 | Formula: C12H15N3O3
+Sulfaquinoxaline: MSBNK-LCSB-LU041256 | Formula: C14H12N4O2S
+Bis(2-carboxyethyl) sulfide: MSBNK-LCSB-LU041354 | Formula: C6H10O4S
+Ranitidine: MSBNK-LCSB-LU041456 | Formula: C13H22N4O3S
+CI-1029: MSBNK-LCSB-LU041556 | Formula: C28H37NO4S
+Ethoxyquin: MSBNK-LCSB-LU042106 | Formula: C14H19NO
+2,7-Acetylaminofluorene: MSBNK-LCSB-LU042556 | Formula: C17H16N2O2
+Tridecanedioic acid: MSBNK-LCSB-LU042655 | Formula: C13H24O4
+Thalidomide: MSBNK-LCSB-LU042756 | Formula: C13H10N2O4
+Norethindrone: MSBNK-LCSB-LU042956 | Formula: C20H26O2
+7-Diethylamino-4-methylcoumarin: MSBNK-LCSB-LU043206 | Formula: C14H17NO2
+Octabenzone: MSBNK-LCSB-LU043406 | Formula: C21H26O3
+Exifone: MSBNK-LCSB-LU044056 | Formula: C13H10O7
+2,4-Dinitrophenol: MSBNK-LCSB-LU044756 | Formula: C6H4N2O5
+Gemfibrozil: MSBNK-LCSB-LU044856 | Formula: C15H22O3
+Gibberellic acid: MSBNK-LCSB-LU044956 | Formula: C19H22O6
+3-Ethylphenol: MSBNK-LCSB-LU045156 | Formula: C8H10O
+Folic acid: MSBNK-LCSB-LU045256 | Formula: C19H19N7O6
+Albendazole: MSBNK-LCSB-LU045356 | Formula: C12H15N3O2S
+Carboxin: MSBNK-LCSB-LU045606 | Formula: C12H13NO2S
+Thiodicarb: MSBNK-LCSB-LU045706 | Formula: C10H18N4O4S3
+Thidiazuron: MSBNK-LCSB-LU045856 | Formula: C9H8N4OS
+Icaridin: MSBNK-LCSB-LU045906 | Formula: C12H23NO3
+Topramezone: MSBNK-LCSB-LU046056 | Formula: C16H17N3O5S
+Methabenzthiazuron: MSBNK-LCSB-LU046506 | Formula: C10H11N3OS
+4-Pentylaniline: MSBNK-LCSB-LU046806 | Formula: C11H17N
+Ouabain: MSBNK-LCSB-LU047206 | Formula: C29H44O12
+Undecanedioic acid: MSBNK-LCSB-LU047656 | Formula: C11H20O4
+Meloxicam: MSBNK-LCSB-LU048756 | Formula: C14H13N3O4S2
+Nicotinic acid: MSBNK-LCSB-LU048806 | Formula: C6H5NO2
+Diacetone acrylamide: MSBNK-LCSB-LU049306 | Formula: C9H15NO2
+1-Hydroxypyrene: MSBNK-LCSB-LU050056 | Formula: C16H10O
+Methyl red: MSBNK-LCSB-LU050206 | Formula: C15H15N3O2
+CP-612372: MSBNK-LCSB-LU050556 | Formula: C22H20N4O4
+Farglitazar: MSBNK-LCSB-LU050856 | Formula: C34H30N2O5
+SSR69071: MSBNK-LCSB-LU051006 | Formula: C27H32N4O7S
+Cotinine: MSBNK-LCSB-LU051106 | Formula: C10H12N2O
+2-Naphthylamine: MSBNK-LCSB-LU051606 | Formula: C10H9N
+Acetyl tributyl citrate: MSBNK-LCSB-LU052306 | Formula: C20H34O8
+Oxadixyl: MSBNK-LCSB-LU052506 | Formula: C14H18N2O4
+1,4-Diaminoanthraquinone: MSBNK-LCSB-LU053005 | Formula: C14H10N2O2
+Finasteride: MSBNK-LCSB-LU054106 | Formula: C23H36N2O2
+1,5-Naphthalenediamine: MSBNK-LCSB-LU054306 | Formula: C10H10N2
+1-Methoxy-2-nitrobenzene: MSBNK-LCSB-LU054456 | Formula: C7H7NO3
+Fumaric acid: MSBNK-LCSB-LU054553 | Formula: C4H4O4
+Salicylamide: MSBNK-LCSB-LU054656 | Formula: C7H7NO2
+2-(N-Ethyl-m-toluidino)ethanol: MSBNK-LCSB-LU054806 | Formula: C11H17NO
+Progesterone: MSBNK-LCSB-LU055006 | Formula: C21H30O2
+4,4'-Sulfonyldiphenol: MSBNK-LCSB-LU055156 | Formula: C12H10O4S
+Ethyl phthalyl ethyl glycolate: MSBNK-LCSB-LU055406 | Formula: C14H16O6
+Tebuthiuron: MSBNK-LCSB-LU055706 | Formula: C9H16N4OS
+3,3'-Dimethoxybenzidine: MSBNK-LCSB-LU055806 | Formula: C14H16N2O2
+Prednisone: MSBNK-LCSB-LU057356 | Formula: C21H26O5
+4-Hexyloxyaniline: MSBNK-LCSB-LU057406 | Formula: C12H19NO
+Sulfanilamide: MSBNK-LCSB-LU057656 | Formula: C6H8N2O2S
+Hexazinone: MSBNK-LCSB-LU057706 | Formula: C12H20N4O2
+Tris(2-hydroxyethyl) isocyanurate: MSBNK-LCSB-LU058206 | Formula: C9H15N3O6
+Octyl gallate: MSBNK-LCSB-LU059356 | Formula: C15H22O5
+1,1,2-Trimethyl-1H-benzo[e]indole: MSBNK-LCSB-LU059806 | Formula: C15H15N
+2,6-Dimethoxybenzoic acid: MSBNK-LCSB-LU059906 | Formula: C9H10O4
+1-(4-Methoxyphenyl)-1-pentene-3-one: MSBNK-LCSB-LU060306 | Formula: C12H14O2
+1,2-Dimethyl-5-nitroimidazole: MSBNK-LCSB-LU060706 | Formula: C5H7N3O2
+Phenethyl anthranilate: MSBNK-LCSB-LU061206 | Formula: C15H15NO2
+Dipentyl phthalate: MSBNK-LCSB-LU061306 | Formula: C18H26O4
+4-Hexylaniline: MSBNK-LCSB-LU062106 | Formula: C12H19N
+Oxyphenisatin: MSBNK-LCSB-LU062556 | Formula: C20H15NO3
+2-Aminoanthraquinone: MSBNK-LCSB-LU063306 | Formula: C14H9NO2
+1,2,3-Benzotriazole: MSBNK-LCSB-LU063456 | Formula: C6H5N3
+Sulfisoxazole: MSBNK-LCSB-LU063656 | Formula: C11H13N3O3S
+6-Thioguanine: MSBNK-LCSB-LU064056 | Formula: C5H5N5S
+Metalaxyl: MSBNK-LCSB-LU064306 | Formula: C15H21NO4
+Metribuzin: MSBNK-LCSB-LU064406 | Formula: C8H14N4OS
+3-Hydroxy-2-naphthoic o-anisidide: MSBNK-LCSB-LU064956 | Formula: C18H15NO3
+Crotamiton: MSBNK-LCSB-LU065006 | Formula: C13H17NO
+Cyclopamine: MSBNK-LCSB-LU065406 | Formula: C27H41NO2
+Hydroxyprogesterone caproate: MSBNK-LCSB-LU065506 | Formula: C27H40O4
+Hexanedioic acid: MSBNK-LCSB-LU066456 | Formula: C6H10O4
+Butylphthalyl butylglycolate: MSBNK-LCSB-LU066806 | Formula: C18H24O6
+Decanedioic acid: MSBNK-LCSB-LU067156 | Formula: C10H18O4
+Phenothrin: MSBNK-LCSB-LU067254 | Formula: C23H26O3
+5-Nitroisophthalic acid: MSBNK-LCSB-LU067856 | Formula: C8H5NO6
+N-Dodecanoyl-N-methylglycine: MSBNK-LCSB-LU068356 | Formula: C15H29NO3
+N,N-Dimethyldecylamine oxide: MSBNK-LCSB-LU068406 | Formula: C12H27NO
+Spirotetramat: MSBNK-LCSB-LU068606 | Formula: C21H27NO5
+1-Cyclohexylpyrrolidin-2-one: MSBNK-LCSB-LU068806 | Formula: C10H17NO
+Naphthalen-2-yl 2-aminobenzoate: MSBNK-LCSB-LU069006 | Formula: C17H13NO2
+Tolbutamide: MSBNK-LCSB-LU069356 | Formula: C12H18N2O3S
+Strychnine: MSBNK-LCSB-LU069406 | Formula: C21H22N2O2
+Carbutamide: MSBNK-LCSB-LU069856 | Formula: C11H17N3O3S
+Troglitazone: MSBNK-LCSB-LU070156 | Formula: C24H27NO5S
+Diphenamid: MSBNK-LCSB-LU070306 | Formula: C16H17NO
+N-[3-(Dimethylamino)propyl]dodecanamide: MSBNK-LCSB-LU071406 | Formula: C17H36N2O
+Nootkatone: MSBNK-LCSB-LU071506 | Formula: C15H22O
+SR271425: MSBNK-LCSB-LU071606 | Formula: C22H27N3O3S
+epsilon-Decalactone: MSBNK-LCSB-LU071705 | Formula: C10H18O2
+Trilostane: MSBNK-LCSB-LU072056 | Formula: C20H27NO3
+Octrizole: MSBNK-LCSB-LU072206 | Formula: C20H25N3O
+Monobenzyl phthalate: MSBNK-LCSB-LU072956 | Formula: C15H12O4
+3-Methyl-N-phenylaniline: MSBNK-LCSB-LU073106 | Formula: C13H13N
+Ethyl 2-cyano-3,3-diphenylacrylate: MSBNK-LCSB-LU073206 | Formula: C18H15NO2
+Zamifenacin: MSBNK-LCSB-LU073406 | Formula: C27H29NO3
+Ro 23-7637: MSBNK-LCSB-LU073506 | Formula: C33H40N2O
+3-Dimethylaminophenol: MSBNK-LCSB-LU073906 | Formula: C8H11NO
+2-Methoxy-5-methylaniline: MSBNK-LCSB-LU074506 | Formula: C8H11NO
+N-(3-Amino-4-methoxyphenyl)acetamide: MSBNK-LCSB-LU075056 | Formula: C9H12N2O2
+3-Hydroxy-N-(3-nitrophenyl)naphthalene-2-carboxamide: MSBNK-LCSB-LU075656 | Formula: C17H12N2O4
+Purpurin: MSBNK-LCSB-LU076056 | Formula: C14H8O5
+3-Hydroxy-4-butyrophenetidide: MSBNK-LCSB-LU077056 | Formula: C12H17NO3
+1-Amino-2-methylanthraquinone: MSBNK-LCSB-LU077306 | Formula: C15H11NO2
+Benzylparaben: MSBNK-LCSB-LU078056 | Formula: C14H12O3
+Diethylene glycol dibenzoate: MSBNK-LCSB-LU078506 | Formula: C18H18O5
+4-Amino-6-tert-butyl-3-thioxo-3,4-dihydro-1,2,4-triazin-5(2H)-one: MSBNK-LCSB-LU078656 | Formula: C7H12N4OS
+6-Pentyl-2H-pyran-2-one: MSBNK-LCSB-LU079506 | Formula: C10H14O2
+4-Nitrosodiphenylamine: MSBNK-LCSB-LU079856 | Formula: C12H10N2O
+Chrysin: MSBNK-LCSB-LU080456 | Formula: C15H10O4
+Thiophanate-methyl: MSBNK-LCSB-LU080556 | Formula: C12H14N4O4S2
+Azacyclotridecan-2-one: MSBNK-LCSB-LU080706 | Formula: C12H23NO
+3-Amino-9-ethylcarbazole: MSBNK-LCSB-LU080906 | Formula: C14H14N2
+Cyprodinil: MSBNK-LCSB-LU081006 | Formula: C14H15N3
+Dibutyl phthalate: MSBNK-LCSB-LU082306 | Formula: C16H22O4
+meso-Hexestrol: MSBNK-LCSB-LU082656 | Formula: C18H22O2
+Diphenylhydantoin: MSBNK-LCSB-LU082756 | Formula: C15H12N2O2
+Benzyl butyl phthalate: MSBNK-LCSB-LU083706 | Formula: C19H20O4
+Nalidixic acid: MSBNK-LCSB-LU084052 | Formula: C12H12N2O3
+1,3-Diphenylguanidine: MSBNK-LCSB-LU084556 | Formula: C13H13N3
+3-Hydroxy-2-naphthoic acid: MSBNK-LCSB-LU084656 | Formula: C11H8O3
+Aziprotryne: MSBNK-LCSB-LU084956 | Formula: C7H11N7S
+Tolnaftate: MSBNK-LCSB-LU085006 | Formula: C19H17NOS
+PharmaGSID_47263: MSBNK-LCSB-LU085456 | Formula: C15H16N4O2
+Dapsone: MSBNK-LCSB-LU085706 | Formula: C12H12N2O2S
+Prometryn: MSBNK-LCSB-LU086106 | Formula: C10H19N5S
+Pentaethylene glycol: MSBNK-LCSB-LU086206 | Formula: C10H22O6
+Oxypurinol: MSBNK-LCSB-LU086456 | Formula: C5H4N4O2
+N-Octyl-2-pyrrolidone: MSBNK-LCSB-LU086506 | Formula: C12H23NO
+4'-Sulfamylacetanilide: MSBNK-LCSB-LU086656 | Formula: C8H10N2O3S
+3,3',5,5'-Tetramethylbenzidine: MSBNK-LCSB-LU087505 | Formula: C16H20N2
+2-Naphthalenol: MSBNK-LCSB-LU087706 | Formula: C10H8O
+4-(4-Hydroxyphenyl)butan-2-one: MSBNK-LCSB-LU088306 | Formula: C10H12O2
+N-Butylurea: MSBNK-LCSB-LU088506 | Formula: C5H12N2O
+1,1,3-Trimethyl-2-thiourea: MSBNK-LCSB-LU088606 | Formula: C4H10N2S
+Ronidazole: MSBNK-LCSB-LU089206 | Formula: C6H8N4O4
+Acetohexamide: MSBNK-LCSB-LU089456 | Formula: C15H20N2O4S
+Kaempferol: MSBNK-LCSB-LU089856 | Formula: C15H10O6
+Methylprednisolone: MSBNK-LCSB-LU090406 | Formula: C22H30O5
+Dazomet: MSBNK-LCSB-LU090506 | Formula: C5H10N2S2
+N,N-Dimethyl-4-nitrosoaniline: MSBNK-LCSB-LU090706 | Formula: C8H10N2O
+Leucomalachite green: MSBNK-LCSB-LU091006 | Formula: C23H26N2
+4-Aminobenzamide: MSBNK-LCSB-LU091206 | Formula: C7H8N2O
+tert-Butyl 4-hydroxybenzoate: MSBNK-LCSB-LU091856 | Formula: C11H14O3
+6-Nitrobenzimidazole: MSBNK-LCSB-LU092256 | Formula: C7H5N3O2
+N,N-Dimethylacetoacetamide: MSBNK-LCSB-LU092506 | Formula: C6H11NO2
+Simetryn: MSBNK-LCSB-LU092806 | Formula: C8H15N5S
+1-Phenyl-2-thiourea: MSBNK-LCSB-LU093556 | Formula: C7H8N2S
+4,4'-Thiodianiline: MSBNK-LCSB-LU093606 | Formula: C12H12N2S
+4-Octylphenol: MSBNK-LCSB-LU093856 | Formula: C14H22O
+4-(1,1,3,3-Tetramethylbutyl)phenol: MSBNK-LCSB-LU093955 | Formula: C14H22O
+Theobromine: MSBNK-LCSB-LU094106 | Formula: C7H8N4O2
+Biochanin A: MSBNK-LCSB-LU096056 | Formula: C16H12O5
+2-Amino-5-(5-nitro-2-furyl)-1,3,4-oxadiazole: MSBNK-LCSB-LU096954 | Formula: C6H4N4O4
+Brucine: MSBNK-LCSB-LU097106 | Formula: C23H26N2O4
+2,4-Di-tert-butylphenol: MSBNK-LCSB-LU097255 | Formula: C14H22O
+Physostigmine: MSBNK-LCSB-LU097906 | Formula: C15H21N3O2
+4-nitrophenol: MSBNK-LCSB-LU098256 | Formula: C6H5NO3
+Propylparaben: MSBNK-LCSB-LU098956 | Formula: C10H12O3
+8-Hydroxyquinoline: MSBNK-LCSB-LU099405 | Formula: C9H7NO
+Mifepristone: MSBNK-LCSB-LU099706 | Formula: C29H35NO2
+2,2',4,4'-Tetrahydroxybenzophenone: MSBNK-LCSB-LU100056 | Formula: C13H10O5
+2,2'-(Tetradecylimino)diethanol: MSBNK-LCSB-LU100206 | Formula: C18H39NO2
+3-Methyl-1-phenyl-1H-pyrazol-5-amine: MSBNK-LCSB-LU101106 | Formula: C10H11N3
+Reserpine: MSBNK-LCSB-LU101355 | Formula: C33H40N2O9
+2-Ethylhexyl 4-(dimethylamino)benzoate: MSBNK-LCSB-LU101706 | Formula: C17H27NO2
+Oxycarboxin: MSBNK-LCSB-LU102756 | Formula: C12H13NO4S
+1-Phenylurea: MSBNK-LCSB-LU102906 | Formula: C7H8N2O
+Carbaryl: MSBNK-LCSB-LU103206 | Formula: C12H11NO2
+2,3-Quinolinedicarboxylic acid: MSBNK-LCSB-LU103754 | Formula: C11H7NO4
+Ethionamide: MSBNK-LCSB-LU104556 | Formula: C8H10N2S
+Sulfasalazine: MSBNK-LCSB-LU104756 | Formula: C18H14N4O5S
+Octylparaben: MSBNK-LCSB-LU106056 | Formula: C15H22O3
+2-Amino-5-nitrophenol: MSBNK-LCSB-LU106256 | Formula: C6H6N2O3
+6-Phenyl-1,3,5-triazine-2,4-diamine: MSBNK-LCSB-LU106306 | Formula: C9H9N5
+2-Aminobenzimidazole: MSBNK-LCSB-LU106706 | Formula: C7H7N3
+5-Methoxypsoralen: MSBNK-LCSB-LU106806 | Formula: C12H8O4
+17-Methyltestosterone: MSBNK-LCSB-LU107206 | Formula: C20H30O2
+Tamoxifen: MSBNK-LCSB-LU107306 | Formula: C26H29NO
+Phenyl 1-hydroxy-2-naphthoate: MSBNK-LCSB-LU107456 | Formula: C17H12O3
+5,7-Dimethoxy-2H-chromen-2-one: MSBNK-LCSB-LU107706 | Formula: C11H10O4
+Piperine: MSBNK-LCSB-LU109606 | Formula: C17H19NO3
+2-Amino-6-nitrobenzothiazole: MSBNK-LCSB-LU109856 | Formula: C7H5N3O2S
+Mepanipyrim: MSBNK-LCSB-LU111406 | Formula: C14H13N3
+Theophylline: MSBNK-LCSB-LU111806 | Formula: C7H8N4O2
+Famotidine: MSBNK-LCSB-LU112156 | Formula: C8H15N7O2S3
+Milrinone: MSBNK-LCSB-LU112256 | Formula: C12H9N3O
+Tribenzylamine: MSBNK-LCSB-LU113206 | Formula: C21H21N
+1-Naphthol: MSBNK-LCSB-LU113606 | Formula: C10H8O
+Candoxatril: MSBNK-LCSB-LU115106 | Formula: C29H41NO7
+Tomelukast: MSBNK-LCSB-LU115356 | Formula: C16H22N4O3
+Salicylanilide: MSBNK-LCSB-LU115556 | Formula: C13H11NO2
+2-(3-Phenylpropyl)pyridine: MSBNK-LCSB-LU116506 | Formula: C14H15N
+Budesonide: MSBNK-LCSB-LU116906 | Formula: C25H34O6
+5,6-Benzoflavone: MSBNK-LCSB-LU117906 | Formula: C19H12O2
+N-Benzyl-9-(tetrahydro-2H-pyran-2-yl)adenine: MSBNK-LCSB-LU118306 | Formula: C17H19N5O
+N,N'-Dicyclohexylthiourea: MSBNK-LCSB-LU118856 | Formula: C13H24N2S
+Diisobutyl phthalate: MSBNK-LCSB-LU118906 | Formula: C16H22O4
+Dodecylamine: MSBNK-LCSB-LU119506 | Formula: C12H27N
+4-Acetylaminophenylacetic acid: MSBNK-LCSB-LU119806 | Formula: C10H11NO3
+Caffeine: MSBNK-LCSB-LU119906 | Formula: C8H10N4O2
+Azoxystrobin: MSBNK-LCSB-LU120806 | Formula: C22H17N3O5
+Laurocapram: MSBNK-LCSB-LU121206 | Formula: C18H35NO
+N-(2,4-Dimethylphenyl)acetamide: MSBNK-LCSB-LU121606 | Formula: C10H13NO
+2-Norbornene-5,6-dicarboxylic anhydride: MSBNK-LCSB-LU122006 | Formula: C9H8O3
+2-Amino-5-azotoluene: MSBNK-LCSB-LU122106 | Formula: C14H15N3
+Methyl trans-styryl ketone: MSBNK-LCSB-LU122406 | Formula: C10H10O
+2-Methyl-4-isothiazolin-3-one: MSBNK-LCSB-LU122806 | Formula: C4H5NOS
+UK-343664: MSBNK-LCSB-LU123056 | Formula: C28H35N7O4S
+6-Methyl-2-thiouracil: MSBNK-LCSB-LU123556 | Formula: C5H6N2OS
+MEHP: MSBNK-LCSB-LU123856 | Formula: C16H22O4
+2'-Acetonaphthone: MSBNK-LCSB-LU124356 | Formula: C12H10O
+4-Nitrobenzoic acid: MSBNK-LCSB-LU124756 | Formula: C7H5NO4
+Bis[2-(2-butoxyethoxy)ethyl] hexandioate: MSBNK-LCSB-LU125406 | Formula: C22H42O8
+Azathioprine: MSBNK-LCSB-LU126256 | Formula: C9H7N7O2S
+Diphenylacetonitrile: MSBNK-LCSB-LU126306 | Formula: C14H11N
+Carbamazepine: MSBNK-LCSB-LU126606 | Formula: C15H12N2O
+Tebufenozide: MSBNK-LCSB-LU127056 | Formula: C22H28N2O2
+2-naphthalenesulfonate: MSBNK-LCSB-LU127356 | Formula: C10H8O3S
+Triallyl trimellitate: MSBNK-LCSB-LU127704 | Formula: C18H18O6
+4,4'-Methylenebis(N,N-dimethylaniline): MSBNK-LCSB-LU128506 | Formula: C17H22N2
+Nitrofurazone: MSBNK-LCSB-LU128656 | Formula: C6H6N4O4
+N-Phenyldiethanolamine: MSBNK-LCSB-LU128706 | Formula: C10H15NO2
+Phenolphthalin: MSBNK-LCSB-LU128856 | Formula: C20H16O4
+4-tert-Butylcatechol: MSBNK-LCSB-LU129056 | Formula: C10H14O2
+Dipropyl phthalate: MSBNK-LCSB-LU129304 | Formula: C14H18O4
+4-(3-Phenylpropyl)pyridine: MSBNK-LCSB-LU129906 | Formula: C14H15N
+Lithocholic acid: MSBNK-LCSB-LU130854 | Formula: C24H40O3
+Corticosterone: MSBNK-LCSB-LU131106 | Formula: C21H30O4
+Aldoxycarb: MSBNK-LCSB-LU131206 | Formula: C7H14N2O4S
+4-Aminoazobenzene: MSBNK-LCSB-LU131306 | Formula: C12H11N3
+Dihexyl phthalate: MSBNK-LCSB-LU131406 | Formula: C20H30O4
+6-Ethoxy-2,3,4-trimethyl-1,2,3,4-tetrahydroquinoline: MSBNK-LCSB-LU131906 | Formula: C14H21NO
+Biotin: MSBNK-LCSB-LU132856 | Formula: C10H16N2O3S
+2-Amino-5-methylbenzenesulfonic acid: MSBNK-LCSB-LU132906 | Formula: C7H9NO3S
+Isoxadifen-ethyl: MSBNK-LCSB-LU133606 | Formula: C18H17NO3
+N-Butyl-p-toluenesulfonamide: MSBNK-LCSB-LU133706 | Formula: C11H17NO2S
+Ilepatril: MSBNK-LCSB-LU133856 | Formula: C22H28N2O5S
+Isopropalin: MSBNK-LCSB-LU134406 | Formula: C15H23N3O4
+Tetraethylene glycol di(2-ethylhexanoate): MSBNK-LCSB-LU135006 | Formula: C24H46O7
+Dipropyl 2,5-pyridinedicarboxylate: MSBNK-LCSB-LU135106 | Formula: C13H17NO4
+N,N'-Dibutylthiourea: MSBNK-LCSB-LU135306 | Formula: C9H20N2S
+Carminic acid: MSBNK-LCSB-LU136556 | Formula: C22H20O13
+2-Amino-6-methoxybenzothiazole: MSBNK-LCSB-LU136806 | Formula: C8H8N2OS
+Benzenesulfonic acid: MSBNK-LCSB-LU136956 | Formula: C6H6O3S
+Dulcin: MSBNK-LCSB-LU138006 | Formula: C9H12N2O2
+Hexylparaben: MSBNK-LCSB-LU138456 | Formula: C13H18O3
+2,2,4-Trimethylpentane-1,3-diyl dibenzoate: MSBNK-LCSB-LU138706 | Formula: C22H26O4
+Testosterone propionate: MSBNK-LCSB-LU139106 | Formula: C22H32O3
+2-phenylphenate tetrahydrate: MSBNK-LCSB-LU139206 | Formula: C12H10O

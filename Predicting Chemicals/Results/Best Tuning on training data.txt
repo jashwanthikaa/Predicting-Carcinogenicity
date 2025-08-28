@@ -1,0 +1,123 @@
+Best Tuning on training data
+
+results 
+
+est Hyperparameters:
+> print(xgb_model$bestTune)
+  nrounds max_depth  eta gamma colsample_bytree min_child_weight subsample
+1     100         6 0.01     5              0.6                1       0.6
+> 
+> # Predict probabilities on test data
+> xgb_pred_prob <- predict(xgb_model, newdata = X_test_matrix, type = "prob")[, "Active"]
+> 
+> # ROC-based threshold optimization
+> roc_obj <- roc(y_test, xgb_pred_prob)
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+> best_coords <- coords(roc_obj, "best", ret = c("threshold", "specificity", "sensitivity"))
+> optimal_threshold <- as.numeric(best_coords["threshold"])
+> cat("\nOptimal threshold based on ROC:", optimal_threshold, "\n")
+
+Optimal threshold based on ROC: 0.5032295 
+> 
+> # Final prediction using optimized threshold
+> xgb_pred <- ifelse(xgb_pred_prob > optimal_threshold, 1, 0)
+> 
+> # Confusion matrix (fixing levels)
+> y_test_factor <- factor(y_test, levels = c(0, 1))
+> xgb_pred_factor <- factor(xgb_pred, levels = c(0, 1))
+> 
+> xgb_cm <- confusionMatrix(xgb_pred_factor, y_test_factor, positive = "1")
+> cat("\nConfusion Matrix:\n")
+
+Confusion Matrix:
+> print(xgb_cm)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction  0  1
+         0 97  8
+         1 22 16
+                                          
+               Accuracy : 0.7902          
+                 95% CI : (0.7143, 0.8538)
+    No Information Rate : 0.8322          
+    P-Value [Acc > NIR] : 0.92379         
+                                          
+                  Kappa : 0.3908          
+                                          
+ Mcnemar's Test P-Value : 0.01762         
+                                          
+            Sensitivity : 0.6667          
+            Specificity : 0.8151          
+         Pos Pred Value : 0.4211          
+         Neg Pred Value : 0.9238          
+             Prevalence : 0.1678          
+         Detection Rate : 0.1119          
+   Detection Prevalence : 0.2657          
+      Balanced Accuracy : 0.7409          
+                                          
+       'Positive' Class : 1      
+
+
+
+On both Train and Test Model Building
+
+
+ Final Model Trained on All Data!
+> print(xgb_final_model$bestTune)
+  nrounds max_depth  eta gamma colsample_bytree min_child_weight subsample
+1     100         6 0.01     5              0.6                1       0.6
+> # ---------------------------------------------
+> # 7. Predict and Evaluate on Full Data
+> # ---------------------------------------------
+> xgb_pred_prob <- predict(xgb_final_model, newdata = X_full_matrix, type = "prob")[, "Active"]
+> 
+> # Find optimal threshold from ROC
+> roc_obj <- roc(y_full, xgb_pred_prob)
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+> best_coords <- coords(roc_obj, "best", ret = c("threshold", "specificity", "sensitivity"))
+> optimal_threshold <- as.numeric(best_coords["threshold"])
+> cat("\n Optimal Threshold from ROC:", optimal_threshold, "\n")
+
+ Optimal Threshold from ROC: 0.4805119 
+> 
+> # Final predictions using optimal threshold
+> xgb_pred <- ifelse(xgb_pred_prob > optimal_threshold, 1, 0)
+> 
+> # Confusion Matrix
+> y_full_factor_bin <- factor(y_full, levels = c(0, 1))
+> xgb_pred_factor_bin <- factor(xgb_pred, levels = c(0, 1))
+> xgb_cm <- confusionMatrix(xgb_pred_factor_bin, y_full_factor_bin, positive = "1")
+> 
+> cat("\n Confusion Matrix on Full Data:\n")
+
+ Confusion Matrix on Full Data:
+> print(xgb_cm)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   0   1
+         0 529   8
+         1  62 119
+                                          
+               Accuracy : 0.9025          
+                 95% CI : (0.8784, 0.9232)
+    No Information Rate : 0.8231          
+    P-Value [Acc > NIR] : 1.562e-09       
+                                          
+                  Kappa : 0.7131          
+                                          
+ Mcnemar's Test P-Value : 2.378e-10       
+                                          
+            Sensitivity : 0.9370          
+            Specificity : 0.8951          
+         Pos Pred Value : 0.6575          
+         Neg Pred Value : 0.9851          
+             Prevalence : 0.1769          
+         Detection Rate : 0.1657          
+   Detection Prevalence : 0.2521          
+      Balanced Accuracy : 0.9161          
+                                          
+       'Positive' Class : 1     

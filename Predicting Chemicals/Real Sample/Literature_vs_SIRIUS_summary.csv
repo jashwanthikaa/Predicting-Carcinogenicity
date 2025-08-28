@@ -1,0 +1,11 @@
+Formula,literature_name,n_detections,n_active,n_inactive,example_foldernumbers,ions,Found in file?
+C10H16O3,Limononaldehyde (candidate),1,0,1,357,C10H16O3_[M-H]-,Yes
+C10H16O4,7-hydroxy-limononic acid,5,0,5,"250, 260, 301, 438, NA",C10H16O4_[M-H]-; C10H16O4_[M-H2O-H]-,Yes
+C18H28O6,Oligomer (ester/aldol/hemiacetal),4,4,0,"387, 390, 410, 423",C18H28O6_[M-H]-; C18H28O6_[M-H2O-H]-,Yes
+C19H28O7,Oligomer (ester/aldol/hemiacetal),3,2,1,"403, 407, 415",C19H28O7_[M-H2O-H]-; C19H28O7_[M-H]-,Yes
+C19H30O5,Oligomer (ester/aldol/hemiacetal),3,3,0,"442, 443, 462",C19H30O5_[M-H]-; C19H30O5_[M-H2O-H]-,Yes
+C19H30O7,Oligomer (ester/aldol/hemiacetal),2,2,0,"450, NA",C19H30O7_[M-H]-; C19H30O7_[M-H2O-H]-,Yes
+C8H12O4,Keto-limonic acid,4,0,4,"126, 141, 157, 207",C8H12O4_[M-H]-,Yes
+C8H12O5,7-hydroxy-keto-limononic acid,4,0,4,"118, 69, 78, 96",C8H12O5_[M-H]-,Yes
+C9H14O4,Limonic/limononic acid,6,0,6,"142, 200, 228, 249, 263",C9H14O4_[M-H]-,Yes
+C9H14O5,Carbonyl related to hydroxy-limononic,8,0,8,"106, 129, 156, 175, 219",C9H14O5_[M-H]-,Yes

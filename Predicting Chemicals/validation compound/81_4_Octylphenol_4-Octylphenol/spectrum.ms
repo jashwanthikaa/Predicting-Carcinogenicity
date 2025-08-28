@@ -1,0 +1,53 @@
+>compound 4-Octylphenol
+>parentmass 205.1598
+>ionization [M - H]-
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/4_Octylphenol.ms
+>quality UNKNOWN
+
+>ms1merged
+206.16707 100.0
+207.17042 15.1
+207.17334 0.3
+208.17131 0.2
+208.17378 1.1
+
+>ms1peaks
+206.16707 100.0
+207.17042 15.1
+207.17334 0.3
+208.17131 0.2
+208.17378 1.1
+
+>collision 15 eV (corrected 15 eV)
+205.1597 1.4225233E7
+
+>collision 30 eV (corrected 30 eV)
+189.1283 39995.3
+205.1597 1.4585796E7
+
+>collision 45 eV (corrected 45 eV)
+149.0972 15633.8
+189.1285 288184.9
+205.1597 1.3583515E7
+
+>collision 60 eV (corrected 60 eV)
+133.0656 7016.5
+149.0971 39139.8
+189.1285 665367.7
+205.1597 6045109.0
+
+>collision 75 eV (corrected 75 eV)
+133.066 11169.1
+149.0973 24543.4
+173.0972 8588.3
+189.1285 547153.8
+205.1598 1021580.4
+
+>collision 90 eV (corrected 90 eV)
+133.0657 12965.5
+149.0973 8402.7
+173.097 17826.1
+189.1285 373154.1
+205.1597 93579.2
+

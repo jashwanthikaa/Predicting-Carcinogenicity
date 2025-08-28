@@ -1,0 +1,8 @@
+index	395
+name	LimoneneNegative_398
+ionMass	429.17652
+ionType	[M + ?]-
+detectedAdducts	MS1_PREPROCESSOR:{[M - H2O - H]-}
+rt	721.53:NaN,NaN
+confidenceScore	0.07080849200882251
+rankingScoreType	sirius.scores.SiriusScore

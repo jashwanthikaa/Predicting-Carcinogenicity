@@ -1,0 +1,64 @@
+>compound Tetraethylene glycol di(2-ethylhexanoate)
+>parentmass 447.3316
+>ionization [M + H]+
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/Tetraethylene_glycol_di_2_ethylhexanoate_.ms
+>quality UNKNOWN
+
+>ms1merged
+446.32435 100.0
+447.32771 26.0
+447.32857 0.3
+447.33063 0.5
+448.3286 1.4
+448.33106 3.2
+448.33399 0.1
+449.33195 0.4
+449.33442 0.3
+
+>ms1peaks
+446.32435 100.0
+447.32771 26.0
+447.32857 0.3
+447.33063 0.5
+448.3286 1.4
+448.33106 3.2
+448.33399 0.1
+449.33195 0.4
+449.33442 0.3
+
+>collision 15 eV (corrected 15 eV)
+57.0699 2947.0
+171.1381 298293.9
+
+>collision 30 eV (corrected 30 eV)
+57.0699 32500.8
+73.0284 5354.2
+101.0598 2432.3
+171.1381 381540.8
+
+>collision 45 eV (corrected 45 eV)
+57.0699 62120.7
+73.0284 21095.2
+101.0599 5030.3
+109.1012 2418.9
+171.138 144904.8
+
+>collision 60 eV (corrected 60 eV)
+57.0699 78791.8
+73.0284 36139.9
+101.0598 6446.2
+109.1015 2757.6
+171.1379 47871.7
+
+>collision 75 eV (corrected 75 eV)
+57.0699 80756.6
+73.0284 34486.8
+101.0598 7014.2
+171.138 6824.7
+
+>collision 90 eV (corrected 90 eV)
+57.0699 49331.0
+73.0284 14718.6
+101.0599 3079.3
+

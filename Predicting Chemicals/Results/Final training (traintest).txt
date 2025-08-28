@@ -1,0 +1,65 @@
+Final training (train/test)
+
+results
+ Final Model Trained on All Data!
+> print(xgb_final_model$bestTune)
+  nrounds max_depth  eta gamma colsample_bytree min_child_weight subsample
+1     100         6 0.01     5              0.6                1       0.6
+> 
+> # Save the model
+> saveRDS(xgb_final_model, "C:/Users/91962/Predicting Chemicals/xgb_final_model_trained_on_all_dataFinal.rds.rds")
+> 
+> # ---------------------------------------------
+> # 7. Predict and Evaluate on Full Data
+> # ---------------------------------------------
+> xgb_pred_prob <- predict(xgb_final_model, newdata = X_full_matrix, type = "prob")[, "Active"]
+> 
+> # Find optimal threshold from ROC
+> roc_obj <- roc(y_full, xgb_pred_prob)
+Setting levels: control = 0, case = 1
+Setting direction: controls < cases
+> best_coords <- coords(roc_obj, "best", ret = c("threshold", "specificity", "sensitivity"))
+> optimal_threshold <- as.numeric(best_coords["threshold"])
+> cat("\n Optimal Threshold from ROC:", optimal_threshold, "\n")
+
+ Optimal Threshold from ROC: 0.4805119 
+> 
+> # Final predictions using optimal threshold
+> xgb_pred <- ifelse(xgb_pred_prob > optimal_threshold, 1, 0)
+> 
+> # Confusion Matrix
+> y_full_factor_bin <- factor(y_full, levels = c(0, 1))
+> xgb_pred_factor_bin <- factor(xgb_pred, levels = c(0, 1))
+> xgb_cm <- confusionMatrix(xgb_pred_factor_bin, y_full_factor_bin, positive = "1")
+> 
+> cat("\n Confusion Matrix on Full Data:\n")
+
+ Confusion Matrix on Full Data:
+> print(xgb_cm)
+Confusion Matrix and Statistics
+
+          Reference
+Prediction   0   1
+         0 529   8
+         1  62 119
+                                          
+               Accuracy : 0.9025          
+                 95% CI : (0.8784, 0.9232)
+    No Information Rate : 0.8231          
+    P-Value [Acc > NIR] : 1.562e-09       
+                                          
+                  Kappa : 0.7131          
+                                          
+ Mcnemar's Test P-Value : 2.378e-10       
+                                          
+            Sensitivity : 0.9370          
+            Specificity : 0.8951          
+         Pos Pred Value : 0.6575          
+         Neg Pred Value : 0.9851          
+             Prevalence : 0.1769          
+         Detection Rate : 0.1657          
+   Detection Prevalence : 0.2521          
+      Balanced Accuracy : 0.9161          
+                                          
+       'Positive' Class : 1 
+             

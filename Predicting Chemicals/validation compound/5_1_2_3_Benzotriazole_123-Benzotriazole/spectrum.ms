@@ -1,0 +1,54 @@
+>compound 1,2,3-Benzotriazole
+>parentmass 118.0411
+>ionization [M - H]-
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/1_2_3_Benzotriazole.ms
+>quality UNKNOWN
+
+>ms1merged
+119.04835 100.0
+120.04538 1.1
+120.0517 6.5
+121.05506 0.2
+
+>ms1peaks
+119.04835 100.0
+120.04538 1.1
+120.0517 6.5
+121.05506 0.2
+
+>collision 15 eV (corrected 15 eV)
+50.0035 16927.7
+90.0349 245051.1
+118.0411 1169344.1
+
+>collision 30 eV (corrected 30 eV)
+50.0035 15237.2
+64.0192 9530.9
+90.0349 742000.1
+118.0411 3433957.8
+
+>collision 45 eV (corrected 45 eV)
+50.0036 20266.2
+64.0192 10052.8
+90.0349 799553.1
+118.0411 3160932.5
+
+>collision 60 eV (corrected 60 eV)
+50.0036 64129.9
+64.0193 19038.2
+90.0349 869818.1
+118.0411 1971640.8
+
+>collision 75 eV (corrected 75 eV)
+50.0035 150946.5
+64.0193 30468.6
+90.0349 653981.9
+118.0411 934384.9
+
+>collision 90 eV (corrected 90 eV)
+50.0036 255667.5
+64.0193 35972.6
+90.0349 386042.4
+118.0411 396000.0
+

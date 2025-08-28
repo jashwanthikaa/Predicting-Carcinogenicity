@@ -1,0 +1,60 @@
+>compound 3-Hydroxy-4-butyrophenetidide
+>parentmass 222.1136
+>ionization [M - H]-
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/3_Hydroxy_4_butyrophenetidide.ms
+>quality UNKNOWN
+
+>ms1merged
+223.12084 100.0
+224.11788 0.4
+224.1242 13.0
+224.12506 0.1
+224.12712 0.2
+225.12509 0.6
+225.12755 0.8
+
+>ms1peaks
+223.12084 100.0
+224.11788 0.4
+224.1242 13.0
+224.12506 0.1
+224.12712 0.2
+225.12509 0.6
+225.12755 0.8
+
+>collision 15 eV (corrected 15 eV)
+83.0138 6224.3
+85.0181 4405.6
+107.0376 53207.1
+136.0767 156401.8
+178.0873 71506.0
+180.0666 3169.0
+
+>collision 30 eV (corrected 30 eV)
+83.0139 8925.5
+85.0181 5695.1
+107.0377 156434.2
+136.0768 160684.8
+178.0872 11714.5
+180.0667 2441.4
+
+>collision 45 eV (corrected 45 eV)
+83.0139 9327.0
+85.0181 4969.2
+107.0377 469259.4
+136.0768 68386.0
+
+>collision 60 eV (corrected 60 eV)
+83.0139 5027.4
+85.0181 3680.5
+107.0377 570150.4
+136.0769 7631.4
+
+>collision 75 eV (corrected 75 eV)
+83.0138 3438.5
+107.0377 587444.2
+
+>collision 90 eV (corrected 90 eV)
+107.0377 438551.7
+

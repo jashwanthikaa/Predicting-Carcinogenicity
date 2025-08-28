@@ -1,0 +1,59 @@
+>compound Ronidazole
+>parentmass 201.0618
+>ionization [M + H]+
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/Ronidazole.ms
+>quality UNKNOWN
+
+>ms1merged
+200.05455 100.0
+201.05159 1.5
+201.05791 6.5
+201.05877 0.2
+202.0588 0.8
+202.06126 0.2
+
+>ms1peaks
+200.05455 100.0
+201.05159 1.5
+201.05791 6.5
+201.05877 0.2
+202.0588 0.8
+202.06126 0.2
+
+>collision 15 eV (corrected 15 eV)
+55.0417 6267.1
+110.0475 2599.8
+140.0455 180997.2
+201.062 10551.5
+
+>collision 30 eV (corrected 30 eV)
+55.0417 11578.3
+110.0477 7096.0
+140.0455 159709.1
+201.0636 2521.3
+
+>collision 45 eV (corrected 45 eV)
+54.0338 4604.2
+55.0417 49191.8
+110.0476 7632.8
+140.0455 74731.4
+
+>collision 60 eV (corrected 60 eV)
+54.0339 5338.3
+55.0417 57385.1
+67.0416 1989.5
+72.0444 2857.9
+94.0527 3072.0
+110.0475 3055.7
+140.0455 15110.3
+
+>collision 75 eV (corrected 75 eV)
+54.0338 7246.6
+55.0417 47107.7
+67.0416 3669.4
+94.0526 3635.3
+
+>collision 90 eV (corrected 90 eV)
+72.0444 930420.0
+

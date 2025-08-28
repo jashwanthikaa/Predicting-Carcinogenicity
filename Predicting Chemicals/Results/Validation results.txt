@@ -1,0 +1,35 @@
+Validation results
+
+Confusion Matrix and Statistics
+
+          Reference
+Prediction Active Inactive
+  Active       17       71
+  Inactive     18      216
+                                          
+               Accuracy : 0.7236          
+                 95% CI : (0.6713, 0.7717)
+    No Information Rate : 0.8913          
+    P-Value [Acc > NIR] : 1               
+                                          
+                  Kappa : 0.1432          
+                                          
+ Mcnemar's Test P-Value : 3.548e-08       
+                                          
+            Sensitivity : 0.4857          
+            Specificity : 0.7526          
+         Pos Pred Value : 0.1932          
+         Neg Pred Value : 0.9231          
+             Prevalence : 0.1087          
+         Detection Rate : 0.0528          
+   Detection Prevalence : 0.2733          
+      Balanced Accuracy : 0.6192          
+                                          
+       'Positive' Class : Active    
+
+
+
+           row Actual Positive Actual Negative
+ Predicted Positive              17              71
+ Predicted Negative              18             216
+> 

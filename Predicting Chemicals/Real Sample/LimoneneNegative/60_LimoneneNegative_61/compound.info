@@ -1,0 +1,8 @@
+index	60
+name	LimoneneNegative_61
+ionMass	191.09274
+ionType	[M + ?]-
+detectedAdducts	MS1_PREPROCESSOR:{}
+rt	85.33:NaN,NaN
+confidenceScore	0.06638614498754895
+rankingScoreType	sirius.scores.SiriusScore

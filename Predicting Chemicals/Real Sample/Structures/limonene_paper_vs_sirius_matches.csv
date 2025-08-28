@@ -1,0 +1,22 @@
+Reference_compound,formula_clean,Elemental_formula,Nominal_mass_Da,Retention_time_min,SIRIUS_matches,Pred_prob_min,Pred_prob_median,Pred_prob_max,Percent_predicted_Active_at_0.4805,Example_predion_values,ExactMass_range_in_SIRIUS
+Aromatic compound,C11H10O2,C11H10O2,174,4.2,0,NA,NA,NA,NA,,NA
+Aromatic compound,C11H10O2,C11H10O2,174,4.6,0,NA,NA,NA,NA,,NA
+Limononic acid,C10H16O3,C10H16O3,184,27.7,1,NA,NA,NA,NA,C10H16O3_[M-H]-,184.1099–184.1099
+Limonic acid,C9H14O4,C9H14O4,186,22.5,6,NA,NA,NA,NA,C9H14O4_[M-H]-,186.0892–186.0892
+Ketolimononic acid,C9H14O4,C9H14O4,186,12.2,6,NA,NA,NA,NA,C9H14O4_[M-H]-,186.0892–186.0892
+Ketolimonic acid,C8H12O5,C8H12O5,188,6.8,4,NA,NA,NA,NA,C8H12O5_[M-H]-,188.0685–188.0685
+Ketolimonic acid (isomer),C8H12O5,C8H12O5,188,7.4,4,NA,NA,NA,NA,C8H12O5_[M-H]-,188.0685–188.0685
+Dicarbonyl derivative of limononic acid,C10H14O4,C10H14O4,198,17.9,1,NA,NA,NA,NA,C10H14O4_[M-H2O-H]-,198.0892–198.0892
+Dicarbonyl derivative of limononic acid,C10H14O4,C10H14O4,198,23.1,1,NA,NA,NA,NA,C10H14O4_[M-H2O-H]-,198.0892–198.0892
+2-Hydroxy limononic acid (tentative),C10H16O4,C10H16O4,200,13,5,NA,NA,NA,NA,C10H16O4_[M-H]-; C10H16O4_[M-H2O-H]-,200.1049–200.1049
+Non-acidic isomer of 7-hydroxy limononic acid,C10H16O4,C10H16O4,200,15.9,5,NA,NA,NA,NA,C10H16O4_[M-H]-; C10H16O4_[M-H2O-H]-,200.1049–200.1049
+Non-acidic isomer of 7-hydroxy limononic acid,C10H16O4,C10H16O4,200,18.7,5,NA,NA,NA,NA,C10H16O4_[M-H]-; C10H16O4_[M-H2O-H]-,200.1049–200.1049
+7-hydroxy limononic acid,C10H16O4,C10H16O4,200,19.5,5,NA,NA,NA,NA,C10H16O4_[M-H]-; C10H16O4_[M-H2O-H]-,200.1049–200.1049
+2-hydroperoxy limononic acid,C10H16O5,C10H16O5,216,13.2,4,NA,NA,NA,NA,C10H16O5_[M-H]-,216.0998–216.0998
+Derivative of limononic acid,C10H18O6,C10H18O6,234,25.2,0,NA,NA,NA,NA,,NA
+Oligomer: 7-hydroxy limonoaldehyde + norlimonoaldehyde,C19H30O5,C19H30O5,338,36.3,3,NA,NA,NA,NA,C19H30O5_[M-H]-; C19H30O5_[M-H2O-H]-,338.2093–338.2093
+Oligomer: keto-limononic + norlimonoaldehyde,C18H28O6,C18H28O6,340,31.3,4,NA,NA,NA,NA,C18H28O6_[M-H]-; C18H28O6_[M-H2O-H]-,340.1886–340.1886
+Oligomer: keto-limononic + norlimonoaldehyde,C18H28O6,C18H28O6,340,32,4,NA,NA,NA,NA,C18H28O6_[M-H]-; C18H28O6_[M-H2O-H]-,340.1886–340.1886
+Oligomer: limonic + 7-hydroxy limononic acid (iso 1),C19H28O7,C19H28O7,368,33.4,3,NA,NA,NA,NA,C19H28O7_[M-H2O-H]-; C19H28O7_[M-H]-,368.1835–368.1835
+Oligomer: limonic + 7-hydroxy limononic acid (iso 2),C19H28O7,C19H28O7,368,33.9,3,NA,NA,NA,NA,C19H28O7_[M-H2O-H]-; C19H28O7_[M-H]-,368.1835–368.1835
+Oligomer: limonic + 7-hydroxy limononic acid (iso 3),C19H28O7,C19H28O7,368,34.9,3,NA,NA,NA,NA,C19H28O7_[M-H2O-H]-; C19H28O7_[M-H]-,368.1835–368.1835

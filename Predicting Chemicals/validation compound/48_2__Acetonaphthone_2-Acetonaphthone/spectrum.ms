@@ -1,0 +1,56 @@
+>compound 2'-Acetonaphthone
+>parentmass 169.0659
+>ionization [M - H]-
+>instrumentation Unknown (LCMS)
+>source file:///C:/Users/91962/Predicting%20Chemicals/CC1/2__Acetonaphthone.ms
+>quality UNKNOWN
+
+>ms1merged
+170.07316 100.0
+171.07652 13.0
+171.07944 0.1
+172.07741 0.2
+172.07987 0.8
+
+>ms1peaks
+170.07316 100.0
+171.07652 13.0
+171.07944 0.1
+172.07741 0.2
+172.07987 0.8
+
+>collision 15 eV (corrected 15 eV)
+93.0346 442054.6
+141.0712 2231.3
+169.0659 334677.8
+
+>collision 30 eV (corrected 30 eV)
+93.0346 410926.8
+169.0659 349627.5
+
+>collision 45 eV (corrected 45 eV)
+93.0346 325440.7
+141.0709 6136.9
+169.0659 201783.2
+
+>collision 60 eV (corrected 60 eV)
+65.0397 4923.6
+93.0346 387327.9
+115.0552 11023.6
+141.071 28038.8
+169.0659 218206.5
+
+>collision 75 eV (corrected 75 eV)
+65.0397 9437.1
+93.0346 312385.7
+115.0553 23247.5
+141.071 31841.8
+169.0659 76133.6
+
+>collision 90 eV (corrected 90 eV)
+65.0397 21506.3
+93.0346 376681.1
+115.0554 38781.7
+141.0711 23301.3
+169.0659 41077.0
+
