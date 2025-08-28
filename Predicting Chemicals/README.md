@@ -246,6 +246,12 @@ Real Sample Validation
 --------------------------------------------------
 The real_sample/ directory contains the data, scripts, and results from the application of the final trained model to limonene secondary organic aerosol (SOA) chamber experiments.
 
+*Real Samples
+-> The real sample dataset consists of secondary organic aerosol (SOA) chamber experiments (e.g., limonene-derived aerosols).  
+-> Raw LC-MS/MS data from these samples were also processed in SIRIUS to generate structural fingerprints.  
+-> These SIRIUS-predicted fingerprints were used as input to the trained XGBoost model, allowing direct evaluation of real-world chemical mixtures.  
+-> Results provided insight into how the model generalises beyond curated assay datasets and purely in silico validation.
+
 *LimoneneNegative.mgf -> Raw MS/MS spectra from the limonene SOA experiment.
 
 *LimoneneNegative/ -> Folder containing curated negative mode MS/MS spectra.
