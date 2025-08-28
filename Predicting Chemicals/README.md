@@ -89,10 +89,13 @@ This folder contains the datasets used for model training, preprocessing, and va
 
 **Key Files
 
-*Assay List ATG_p53_CIS_2025-06-10.xlsx  
-  -> This is the **initial dataset downloaded from the EPA CompTox Dashboard**.  
-  -> It contains raw bioassay results for the ATG_p53_CIS assay, which measures p53 activation.  
-  -> Used as the starting point for all preprocessing and filtering.  
+**This project uses publicly available data from the **EPA CompTox Chemicals Dashboard**:  
+-> Main dashboard: [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/)  
+-> Assay endpoint: [ATG_p53_CIS](https://comptox.epa.gov/dashboard/assay-endpoints/ATG_p53_CIS)  
+  (p53 activation assay, used for labelling compounds as Active/Inactive).
+
+->The initial download included all assay compounds, but a subset was removed during preprocessing 
+(e.g., non-CHNOS compounds, missing values, and highly correlated features).  
 
 *FinalData.xlsx  
   -> This is the **main processed dataset** used for model training and evaluation.  
