@@ -6,7 +6,6 @@ This project accompanies the MSc Data Science dissertation:
 Author: Jashwanthikaa Duraikannu Rajendiran
 Course: MSc Data Science
 Institution: University of York
-Submission Date: September 2025
 
 --------------------------------------------------
 Project Overview
