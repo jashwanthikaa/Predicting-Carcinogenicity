@@ -89,10 +89,13 @@ This folder contains the datasets used for model training, preprocessing, and va
 
 **Key Files
 
-*Assay List ATG_p53_CIS_2025-06-10.xlsx  
-  -> This is the **initial dataset downloaded from the EPA CompTox Dashboard**.  
-  -> It contains raw bioassay results for the ATG_p53_CIS assay, which measures p53 activation.  
-  -> Used as the starting point for all preprocessing and filtering.  
+**This project uses publicly available data from the **EPA CompTox Chemicals Dashboard**:  
+-> Main dashboard: [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/)  
+-> Assay endpoint: [ATG_p53_CIS](https://comptox.epa.gov/dashboard/assay-endpoints/ATG_p53_CIS)  
+  (p53 activation assay, used for labelling compounds as Active/Inactive).
+
+->The initial download included all assay compounds, but a subset was removed during preprocessing 
+(e.g., non-CHNOS compounds, missing values, and highly correlated features).  
 
 *FinalData.xlsx  
   -> This is the **main processed dataset** used for model training and evaluation.  
@@ -117,10 +120,10 @@ This folder contains the datasets used for model training, preprocessing, and va
 *All_319/ -> Subset of 319 compounds cross-matched with MassBank (CAS-based).  
 * CC1/ -> Contains SIRIUS-extracted candidate structures for validation.  
 *Detail Data/ -> Supporting compound-level metadata and filtered datasets.  
-* LCSB/ -> Curated MassBank subset (Luxembourg Centre for Systems Biomedicine) used for validation.  
-* MassBank-data-2025.05.1.zip -> Full MassBank archive (public release).  
-   Source: [MassBank-data GitHub release (2025.05.1)](https://github.com/MassBank/MassBank-data/releases/tag/2025.05.1)  
-   Note: Only the **LCSB subset** is redistributed in this project due to licensing restrictions.  
+* **MassBank-data-2025.05.1.zip** → Full MassBank archive (public release).  
+  ->Source: [MassBank-data GitHub release (2025.05.1)](https://github.com/MassBank/MassBank-data/releases/tag/2025.05.1)  
+  -> This archive contains data from multiple contributors.  
+  -> For this project, only the **Luxembourg Centre for Systems Biomedicine (LCSB)** contributor subset was extracted and used for external validation.
 
 --------------------------------------------------
 Results
