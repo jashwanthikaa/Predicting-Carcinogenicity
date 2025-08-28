@@ -217,6 +217,31 @@ The figs/ directory contains all plots and visualisations generated during the p
 *Structural comparisons (SMILES-annotated plots).
 
 --------------------------------------------------
+Validation Compounds
+--------------------------------------------------
+The validation_compounds/ directory contains compound-level predictions and SIRIUS outputs used for external validation of the XGBoost model.
+
+*Validation Compounds
+-> The validation compounds were prepared by extracting all compound details (including identifiers, formulas, and fingerprints) into a dedicated folder.  
+->These compounds were processed through SIRIUS/CSI:FingerID, where structures were uploaded to SIRIUS for MS/MS prediction and annotation.  
+-> The resulting validated subset (downloaded from SIRIUS output) was then used to compare against the machine learning model predictions for external validation.  
+-> This approach ensures that predictions are tested on independent chemical structures not included in the model training.
+
+**Each subfolder (e.g., 1_12_Hydroxyoctadecanoic_acid, 2_17_Methyltestosterone, 3_1_1_2_Trimethyl_1H_benzo_e_indole) corresponds to a single compound tested during external validation.
+
+**Inside each compound folder:
+
+SIRIUS output files (predicted molecular formulas and candidate structures).
+
+Predicted fingerprints derived from MS/MS spectra.
+
+XGBoost model predictions of carcinogenicity (probability scores and binary active/inactive classification).
+
+**These compounds were selected by matching CAS numbers between the EPA CompTox dataset and the MassBank LCSB contributor dataset.
+
+**The purpose of this folder is to demonstrate compound-level interpretability and reproducibility of the validation workflow.
+
+--------------------------------------------------
 Real Sample Validation
 --------------------------------------------------
 The real_sample/ directory contains the data, scripts, and results from the application of the final trained model to limonene secondary organic aerosol (SOA) chamber experiments.
@@ -240,25 +265,6 @@ The real_sample/ directory contains the data, scripts, and results from the appl
 *Sirius_predictionLimoneneNegative.csv -> Fingerprint predictions extracted from SIRIUS.
 
 *xgb_final_model_trained_on_all_data.rds -> Final trained model (full dataset) applied to real sample SOA validation.
-
---------------------------------------------------
-Validation Compounds
---------------------------------------------------
-The validation_compounds/ directory contains compound-level predictions and SIRIUS outputs used for external validation of the XGBoost model.
-
-**Each subfolder (e.g., 1_12_Hydroxyoctadecanoic_acid, 2_17_Methyltestosterone, 3_1_1_2_Trimethyl_1H_benzo_e_indole) corresponds to a single compound tested during external validation.
-
-**Inside each compound folder:
-
-SIRIUS output files (predicted molecular formulas and candidate structures).
-
-Predicted fingerprints derived from MS/MS spectra.
-
-XGBoost model predictions of carcinogenicity (probability scores and binary active/inactive classification).
-
-**These compounds were selected by matching CAS numbers between the EPA CompTox dataset and the MassBank LCSB contributor dataset.
-
-**The purpose of this folder is to demonstrate compound-level interpretability and reproducibility of the validation workflow.
 
 --------------------------------------------------
 Software Environment
