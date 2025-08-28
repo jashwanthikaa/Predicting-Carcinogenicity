@@ -120,10 +120,10 @@ This folder contains the datasets used for model training, preprocessing, and va
 *All_319/ -> Subset of 319 compounds cross-matched with MassBank (CAS-based).  
 * CC1/ -> Contains SIRIUS-extracted candidate structures for validation.  
 *Detail Data/ -> Supporting compound-level metadata and filtered datasets.  
-* LCSB/ -> Curated MassBank subset (Luxembourg Centre for Systems Biomedicine) used for validation.  
-* MassBank-data-2025.05.1.zip -> Full MassBank archive (public release).  
-   Source: [MassBank-data GitHub release (2025.05.1)](https://github.com/MassBank/MassBank-data/releases/tag/2025.05.1)  
-   Note: Only the **LCSB subset** is redistributed in this project due to licensing restrictions.  
+* **MassBank-data-2025.05.1.zip** → Full MassBank archive (public release).  
+  ->Source: [MassBank-data GitHub release (2025.05.1)](https://github.com/MassBank/MassBank-data/releases/tag/2025.05.1)  
+  -> This archive contains data from multiple contributors.  
+  -> For this project, only the **Luxembourg Centre for Systems Biomedicine (LCSB)** contributor subset was extracted and used for external validation.
 
 --------------------------------------------------
 Results
